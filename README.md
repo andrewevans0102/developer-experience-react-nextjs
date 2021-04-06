@@ -15,7 +15,7 @@ npm run start
 To start the Next.js project:
 
 ```bash
-cd next.js
+cd nextjs
 npm i
 npm run dev
 ```
