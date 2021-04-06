@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Bangers&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import "header";
+@import "home";
+@import "episodes";
+@import "season2";
+@import "quotes";
+@import "contact";
+
+h1 {
+  font-size: 100px;
+  margin: 0;
+  font-family: "Righteous", cursive;
+
+  @media (max-width: 500px) {
+    font-size: 80px;
+  }
+}
+
+body {
+  background-color: black;
+  color: white;
+}

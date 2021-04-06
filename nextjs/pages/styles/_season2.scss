@@ -1,0 +1,18 @@
+.season2 {
+    display: flex;
+    justify-content: center;
+
+    flex-direction: column;
+    align-items: center;
+
+    h1 {
+        margin-bottom: 20px;
+    }
+
+    &__video {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+}

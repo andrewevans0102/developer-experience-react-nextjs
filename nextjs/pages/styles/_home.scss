@@ -1,0 +1,26 @@
+.home {
+    display: flex;
+    justify-content: center;
+
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+
+    h2 {
+        font-style: italic;
+        margin: 0;
+    }
+
+    img {
+        height: 100%;
+        width: 100%;
+
+        // @media (max-width: 500px) {
+        //     width: 100%;
+        //     height: 200px;
+        // }
+
+        // margin: 20px;
+        // border-radius: 200px;
+    }
+}
